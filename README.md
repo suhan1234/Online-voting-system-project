@@ -1,6 +1,6 @@
-# Online-voting-system-project
 
-Online voting system using PHP
+
+Online Voting System using PHP
 
 This is a complete Online Voting System I created for my final year project for the University of Lusaka in Zambia. This system is a PHP Project that provides an online platform to vote. The system was developed for a specific school. This project stores the candidate details, voters details, and etc. The voters in this project are the student of the school and in order for them to vote, they must register their system account and their student ID number is required. After the student registration to the system, the system admin user will activate the student accounts so they could vote for their candidates. The system has 3 types of users which are the Admin, Staff, and Voters. The admin can manage all of the data in this system and the staff has only limited access to manage the data. This Voting System generates a printable report for the total counts of the vote for all candidates.
 
