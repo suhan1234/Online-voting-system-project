@@ -42,6 +42,9 @@ Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 Create a new database naming "vote".
 Import the provided SQL file. The file is known as "vote.sql" located inside the "database" folder.
 Browse the Online Coting System in a browser. i.e. http://localhost/voting
+
+
+
 ( Admin Access Information =>
 Login ID: 1 ,
 Username: admin ,
