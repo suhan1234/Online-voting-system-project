@@ -59,11 +59,11 @@ Browse the Online Coting System in a browser. i.e. http://localhost/voting
 
 
 ( Admin Access Information =>
-Login ID: 1 ,
-Username: admin ,
-Password: admin  )
+Login ID : 1 ,
+Username : admin ,
+Password : admin  )
 
  ( User Access Information =>
-Login ID: 4   ,
-Username: user  ,
-Password: user  )
+Login ID : 4   ,
+Username : user  ,
+Password : user  )
